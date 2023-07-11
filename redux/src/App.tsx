@@ -1,5 +1,4 @@
 import React from 'react';
-import './App.css'
 import { useAppSelector } from './store';
 
 function App() {
